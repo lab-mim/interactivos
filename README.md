@@ -8,3 +8,4 @@ EL objetivo de este repositorio es documentar los módulos desarrollados en el L
   diagramas
 
 2 - MURO BLENDING
+	instrucciones cambio de app y video
