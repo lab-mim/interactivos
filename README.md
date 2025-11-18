@@ -15,6 +15,7 @@ ___
 ---
 
 * ### [Muro Blending](https://github.com/lab-mim/interactivos/tree/main/muro_blending)
+  carga videos h.264 3360x1200 con blending en muro de agua
 ---
 * ### [Shader Agua](https://github.com/lab-mim/interactivos/tree/main/agua)
 	adaptación de [shadertoy seascape](https://www.shadertoy.com/view/Ms2SD1) para muro de agua
