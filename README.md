@@ -6,14 +6,14 @@ ___
 * ### [Cuadrado Mágico](https://github.com/lab-mim/interactivos/tree/main/cuadrado_magico)
   - [arduino](https://github.com/lab-mim/interactivos/tree/main/cuadrado_magico/arduino)
   - [manual](https://github.com/lab-mim/interactivos/blob/main/cuadrado_magico/Manual_Cuadrado_Magico.docx)
-  - diagramas
 ---
 * ### [Espacio de Color](https://github.com/lab-mim/interactivos/tree/main/espacio_color)
   - [código ESP32](https://github.com/lab-mim/interactivos/tree/main/espacio_color/ESP32)
   - [código openframeworks](https://github.com/lab-mim/interactivos/tree/main/espacio_color/openframeworks)
   - [patch Pure Data](https://github.com/lab-mim/interactivos/tree/main/espacio_color/Pure%20Data)
 ---
-
+* ### [Muro Agua](https://github.com/lab-mim/interactivos/tree/main/ripple)
+---
 * ### [Muro Blending](https://github.com/lab-mim/interactivos/tree/main/muro_blending)
   carga videos h.264 3360x1200 con blending en muro de agua
 ---
