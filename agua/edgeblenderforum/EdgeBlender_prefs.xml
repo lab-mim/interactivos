@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "prefs">
+	<slot number = "1">
+		<pattr name = "autofullscreen" value = "0" />
+		<pattr name = "automultiscreen" value = "1" />
+		<pattr name = "fps" value = "29" />
+		<pattr name = "scalex" value = "1.36" />
+		<pattr name = "scaley" value = "1.36" />
+		<pattr name = "hide_mouse" value = "0" />
+		<pattr name = "leftpos_x[1]" value = "1.084" />
+		<pattr name = "leftpos_y[1]" value = "0." />
+		<pattr name = "rightpos_x" value = "-1.084" />
+		<pattr name = "rightpos_y" value = "0." />
+		<pattr name = "blend_width" value = "0.125" />
+		<pattr name = "autoblend" value = "1" />
+		<pattr name = "blend_gamm" value = "0" />
+		<pattr name = "overlap" value = "1.084" />
+		<pattr name = "scale" value = "1.36" />
+		<pattr name = "blendcurve00" value = "0" />
+		<pattr name = "blendcurve01" value = "25" />
+		<pattr name = "blendcurve02" value = "50" />
+		<pattr name = "blendcurve03" value = "75" />
+		<pattr name = "blendcurve04" value = "100" />
+		<pattr name = "blendcurve05" value = "125" />
+		<pattr name = "blendcurve06" value = "150" />
+		<pattr name = "blendcurve07" value = "175" />
+		<pattr name = "blendcurve08" value = "206" />
+		<pattr name = "blendcurve09" value = "219" />
+		<patcher name = "path handling">
+			<pattr name = "moviepath" value = "&quot;ZLP 1.7GIG USB:/MAX PATCHES/MultiScreener (incomplete)/-HD test movies/Tests 720p/ZLP HD-tester 720p-24 PhotoJPEG.mov&quot;" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,42 @@
+{
+	"pattrstorage" : 	{
+		"name" : "prefs",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"autofullscreen" : [ 0 ],
+					"automultiscreen" : [ 1 ],
+					"fps" : [ 29 ],
+					"scalex" : [ 1.3426 ],
+					"scaley" : [ 1.3426 ],
+					"hide_mouse" : [ 0 ],
+					"leftpos_x[1]" : [ 0.06 ],
+					"leftpos_y[1]" : [ 0.0 ],
+					"rightpos_x" : [ -0.06 ],
+					"rightpos_y" : [ 0.0 ],
+					"blend_width" : [ 0.125 ],
+					"autoblend" : [ 1 ],
+					"blend_gamm" : [ 0 ],
+					"overlap" : [ 0.06 ],
+					"scale" : [ 1.3426 ],
+					"blendcurve00" : [ 0 ],
+					"blendcurve01" : [ 25 ],
+					"blendcurve02" : [ 50 ],
+					"blendcurve03" : [ 75 ],
+					"blendcurve04" : [ 100 ],
+					"blendcurve05" : [ 125 ],
+					"blendcurve06" : [ 150 ],
+					"blendcurve07" : [ 175 ],
+					"blendcurve08" : [ 210 ],
+					"blendcurve09" : [ 255 ],
+					"path handling::moviepath" : [ "C:/Users/cristian/Desktop/x.jpg" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
