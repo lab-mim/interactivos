@@ -13,15 +13,25 @@ ___
   - [código openframeworks](https://github.com/lab-mim/interactivos/tree/main/espacio_color/openframeworks)
   - [patch Pure Data](https://github.com/lab-mim/interactivos/tree/main/espacio_color/Pure%20Data)
 ---
+
+* ### [Muro Blending](https://github.com/lab-mim/interactivos/tree/main/muro_blending)
+---
+* ### [Shader Agua](https://github.com/lab-mim/interactivos/tree/main/agua)
+	adaptación de [shadertoy seascape](https://www.shadertoy.com/view/Ms2SD1) para muro de agua
+---
+* ### [Espejos de Código](https://github.com/lab-mim/interactivos/tree/main/espejo_de_c%C3%B3digo)
+---
+* ### [Esporulación](https://github.com/lab-mim/interactivos/tree/main/esporulacion)
+---
+* ### [Ciclo del Hongo](https://github.com/lab-mim/interactivos/tree/main/ciclo_del_hongo)
+---
+* ### [Micelio Vectorial](https://github.com/lab-mim/interactivos/tree/main/micelio_vectorial)
+  genera gráficas de micelios en formato vectorial
+---
+* ### [Micelio Generativo](https://github.com/lab-mim/interactivos/tree/main/micelio_gen)
+---
 * ### [Raspberry Pi Loopers](https://github.com/lab-mim/interactivos/blob/main/Raspberry%20Pi%20Video%20Looper.md)
   - [Imágenes para Raspberry 4, 3B+, 3B y 2](https://github.com/lab-mim/interactivos/blob/main/Raspberry%20Pi%20Video%20Looper.md)
 ---
-* ### [Muro Blending](https://github.com/lab-mim/interactivos/tree/main/muro_blending)
-	
----
-* ### [Espejos de Código](https://github.com/lab-mim/interactivos/tree/main/espejo_de_c%C3%B3digo)
 
----
-* ### [Esporulación](https://github.com/lab-mim/interactivos/tree/main/esporulacion)
 
----
