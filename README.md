@@ -32,6 +32,8 @@ ___
 * ### [Micelio Generativo](https://github.com/lab-mim/interactivos/tree/main/micelio_gen)
   aplicación creada para FungiFest Valdivia
 ---
+* ### [Sonosferas](https://github.com/lab-mim/interactivos/tree/main/sonosferas)
+---
 * ### [Raspberry Pi Loopers](https://github.com/lab-mim/interactivos/blob/main/Raspberry%20Pi%20Video%20Looper.md)
   - [Imágenes para Raspberry 4, 3B+, 3B y 2](https://github.com/lab-mim/interactivos/blob/main/Raspberry%20Pi%20Video%20Looper.md)
 ---
